@@ -1,13 +1,4 @@
-body {
- background-color:white;
-}
-main {
-    font-weight: bold;
-    color: red;
-}
-titlelogo {
-    font-size: medium;
-}
-img {
-    
+h1 {
+    font-weight: large;
+    color:#ff5c33;
 }
